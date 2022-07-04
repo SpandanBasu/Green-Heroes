@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">180573893789-3s1stlvunf3d29bjl336gvgg1f4itbl2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://green-heroes-e8106.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">180573893789</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDo5c8EWDC7VsO2_NR6-O5KtD9rxf_uvk</string>
+    <string name="google_app_id" translatable="false">1:180573893789:android:8c18263d51f640cfc99074</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDo5c8EWDC7VsO2_NR6-O5KtD9rxf_uvk</string>
+    <string name="google_storage_bucket" translatable="false">green-heroes-e8106.appspot.com</string>
+    <string name="project_id" translatable="false">green-heroes-e8106</string>
+</resources>

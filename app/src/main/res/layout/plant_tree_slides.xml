@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/success_animation"
+        app:lottie_fileName="success_anim.json"
+        android:visibility="invisible"
+        android:layout_marginBottom="16dp"
+        android:translationZ="10dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="false"/>
+
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <Button
+        android:id="@+id/skip"
+        android:textAlignment="textEnd"
+        android:layout_gravity="right"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="wrap_content"
+        android:paddingTop="8dp"
+        android:layout_height="wrap_content"
+        android:text="Skip"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"
+        android:background="@null"
+        android:drawableRight="@drawable/arrow_right_half"
+        tools:ignore="RtlCompat"/>
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="1"
+        >
+
+
+    </androidx.viewpager.widget.ViewPager>
+    <Button
+        android:id="@+id/btn_capture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capture"
+        android:textAllCaps="false"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="8dp"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_regular_file"
+        android:background="@drawable/plant_button_back"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        android:drawablePadding="8dp"
+        android:drawableLeft="@drawable/camera"
+        android:layout_marginBottom="8dp"/>
+
+    <LinearLayout
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/below_pager"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_marginLeft="32dp"
+            android:layout_marginBottom="16dp"
+            android:id="@+id/tab_indicator"
+            app:tabIndicatorColor="@android:color/white"
+            android:layout_width="150dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginVertical="8dp"
+
+
+            app:tabBackground="@drawable/tab_selector">
+
+        </com.google.android.material.tabs.TabLayout>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/nxt"
+            android:textAlignment="textEnd"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEXT"
+            android:layout_marginRight="16dp"
+            android:background="@null"
+            android:textStyle="bold"
+            android:drawableRight="@drawable/arrow_right_half"
+            tools:ignore="RtlCompat" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+</RelativeLayout>

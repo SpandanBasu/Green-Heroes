@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_log_in_me">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="48dp"
+        android:layout_marginLeft="48dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome_back"
+            android:paddingBottom="48dp"
+            android:paddingLeft="16dp"
+            android:fontFamily="@font/poppins_semibold_file"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email_hint"
+            style="@style/EditorFieldStyle2"
+            android:id="@+id/email_login"
+            android:inputType="textEmailAddress"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password_hint"
+            style="@style/EditorFieldStyle2"
+            android:id="@+id/password_login"
+            android:inputType="textPassword"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/log_in_log_screen"
+                android:textColor="@color/DeepGray"
+                android:textSize="32sp"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="@font/poppins_semibold_file"
+                />
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="2"/>
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_arrow_right"
+                android:background="@drawable/ripple"
+                android:scaleType="center"
+                android:clickable="true"
+                android:id="@+id/login_btn"/>
+
+                <ProgressBar
+                    android:id="@+id/progress_bar_log"
+                    android:layout_width="88dp"
+                    android:layout_height="88dp"
+                    android:layout_gravity="center"
+                    style="@style/ProgressBarStyle"
+                    />
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:layout_weight="1"
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sign_up"
+                android:textColor="@color/DeepGray"
+                android:layout_gravity="center_vertical"
+                android:textSize="16sp"
+                android:fontFamily="@font/poppins_semibold_file"
+                android:layout_weight="1"
+                android:id="@+id/sign_up"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/forgot_password"
+                android:textColor="@color/DeepGray"
+                android:textSize="16sp"
+                android:gravity="end"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="@font/poppins_semibold_file"
+                android:layout_weight="1"
+                android:id="@+id/forgot"/>
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

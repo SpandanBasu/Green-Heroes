@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/slide_title"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:id="@+id/water_animation"
+        app:lottie_fileName="watering_anim.json"
+        android:visibility="invisible"
+        android:layout_marginBottom="16dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="180dp"
+        android:id="@+id/slide_img"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/dig_hole"/>
+
+    <TextView
+        android:id="@+id/slide_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:layout_marginTop="20dp"
+        android:textSize="32sp"
+        android:fontFamily="@font/poppins_semibold_file"
+        android:textStyle="bold"
+        android:layout_below="@id/slide_img"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/DeepGray"/>
+
+    <TextView
+        android:layout_marginVertical="16dp"
+        android:id="@+id/slide_tips"
+        android:paddingHorizontal="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/slide_title"
+        android:fontFamily="@font/poppins_regular_file"
+        android:gravity="center_horizontal"
+        android:text="@string/tipToDig"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/slide_small_desc"
+        android:lineSpacingExtra="8dp"
+        android:layout_width="match_parent"
+        android:paddingHorizontal="16dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/slide_tips"
+        android:fontFamily="@font/poppins_regular_file"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:text="@string/dig"
+        android:textAlignment="center"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+
+
+
+
+
+</RelativeLayout>

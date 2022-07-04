@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AllMessages">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        >
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView_allmessages_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-1490290745690107/8363243001">
+        </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="50dp"
+        android:id="@+id/recycler_view_allmsg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="52dp"
+        />
+
+    <RelativeLayout
+        android:id="@+id/no_message_box"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:id="@+id/chat_animation"
+            app:lottie_fileName="chat_anim.json"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="false"/>
+
+
+
+<!--        <ImageView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/sad"-->
+<!--            android:id="@+id/alone_image"-->
+<!--            android:layout_centerHorizontal="true"/>-->
+
+        <TextView
+            android:layout_marginHorizontal="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_alone"
+            android:text="No Messages?"
+            android:layout_below="@id/chat_animation"
+            android:layout_centerHorizontal="true"
+            android:textSize="32sp"
+            android:fontFamily="@font/poppins_semibold_file"/>
+
+        <TextView
+            android:layout_marginHorizontal="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Why don't you start the conversation?"
+            android:layout_below="@id/text_alone"
+            android:layout_centerHorizontal="true"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_regular_file"/>
+
+    </RelativeLayout>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView_allmessages_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-1490290745690107/5101002455">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

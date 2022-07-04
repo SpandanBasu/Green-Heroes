@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+    >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/close_dialog_friend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_close"
+            android:layout_gravity="end"
+            android:foregroundGravity="right"
+            android:layout_marginRight="7dp"
+            android:layout_marginEnd="7dp"
+            android:layout_marginTop="7dp"
+            android:elevation="5dp"
+            />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_marginTop="12dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/user_image_friend_dialog"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/groot"
+            app:civ_border_width="0dp"
+            android:layout_gravity="center_horizontal"
+            android:translationZ="10dp"
+
+            />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_plant_tree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="15dp"
+            app:cardBackgroundColor="@color/white"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="75dp"
+            >
+
+            <LinearLayout
+                android:layout_gravity="center_horizontal"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="80dp"
+                >
+
+
+                <TextView
+                    android:id="@+id/user_name_friend_dialog"
+                    android:layout_marginTop="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="John Doe"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/DeepGray"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/poppins_semibold_file"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/user_email_friend_dialog"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:text="user@gmail.com"
+                    android:layout_marginBottom="8dp"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="12sp"
+                    android:includeFontPadding="false"
+                    />
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="12dp"
+                    android:orientation="horizontal">
+
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"/>
+
+
+                    <Button
+                        android:paddingHorizontal="16dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="8dp"
+                        android:text="Message"
+                        android:drawableLeft="@drawable/ic_chat"
+                        android:fontFamily="@font/poppins_regular_file"
+                        android:background="@drawable/button_shape"
+                        android:textColor="@color/white"
+                        android:textAllCaps="false"
+                        android:layout_gravity="center_horizontal"
+                        android:id="@+id/msg_btn_friend_dialog"/>
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/center_space"
+                        android:visibility="gone"
+                        android:layout_weight="0.5"/>
+
+                    <Button
+                        android:paddingHorizontal="16dp"
+                        android:drawablePadding="8dp"
+                        android:drawableLeft="@drawable/add_friend"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Add Friend"
+                        android:fontFamily="@font/poppins_regular_file"
+                        android:background="@drawable/button_shape"
+                        android:textColor="@color/white"
+                        android:textAllCaps="false"
+                        android:layout_gravity="center_horizontal"
+                        android:visibility="gone"
+                        android:id="@+id/add_friend_btn_friend_dialog"/>
+
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"/>
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+    </FrameLayout>
+</RelativeLayout>

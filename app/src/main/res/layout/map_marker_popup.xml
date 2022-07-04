@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+    >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/close_dialog_marker_popup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_close"
+            android:layout_gravity="end"
+            android:foregroundGravity="right"
+            android:layout_marginRight="7dp"
+            android:layout_marginEnd="7dp"
+            android:layout_marginTop="7dp"
+            android:elevation="5dp"
+            />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/plant_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/tree"
+            app:civ_border_width="0dp"
+            android:layout_gravity="center_horizontal"
+            android:translationZ="10dp"
+
+            />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_plant_tree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="15dp"
+            app:cardBackgroundColor="@color/white"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="75dp"
+            >
+
+            <LinearLayout
+                android:layout_gravity="center_horizontal"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="80dp"
+                >
+                <TextView
+                    android:textAlignment="center"
+                    android:id="@+id/tree_name_popup"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="John Doe"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/DeepGray"
+                    android:textSize="24sp"
+                    android:fontFamily="@font/poppins_semibold_file"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Planted By:"
+                    android:includeFontPadding="false"
+                    android:textSize="12sp"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/user_name_popup"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="John Doe"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/DeepGray"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/poppins_semibold_file"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/email_popup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:text="user@gmail.com"
+                    android:layout_marginBottom="12dp"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="12sp"
+                    android:includeFontPadding="false"
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Planted On:"
+                        android:includeFontPadding="false"
+                        android:fontFamily="@font/poppins_regular_file"
+                        android:textSize="12sp"
+                        />
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:id="@+id/date_popup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="12/12/2020"
+                        android:textColor="@color/DeepGray"
+                        android:includeFontPadding="false"
+                        android:textSize="14sp"
+                        android:fontFamily="@font/poppins_semibold_file"
+                        />
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginTop="4dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="At Time:"
+                        android:includeFontPadding="false"
+                        android:fontFamily="@font/poppins_regular_file"
+                        android:textSize="12sp"
+                        />
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:id="@+id/time_popup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:text="20:10:52"
+                        android:textColor="@color/DeepGray"
+                        android:includeFontPadding="false"
+                        android:textSize="14sp"
+                        android:fontFamily="@font/poppins_semibold_file"
+                        />
+
+
+                </LinearLayout>
+
+
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:paddingHorizontal="16dp"
+                    android:drawableRight="@drawable/right_arrow_half_white"
+                    android:layout_height="wrap_content"
+                    android:text="Check Profile"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:background="@drawable/button_shape_blue"
+                    android:textColor="@color/white"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="16dp"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    android:id="@+id/check_profile_btn"/>
+
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+    </FrameLayout>
+</RelativeLayout>

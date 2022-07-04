@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@+id/swipe_refresh"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/offWhite"
+    >
+
+
+<!--    <ProgressBar-->
+<!--        android:id="@+id/progress_bar_scan"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_gravity="center"-->
+<!--        style="@style/ProgressBarStyle"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:indeterminateTint="@color/colorDeepGreen"-->
+<!--        android:visibility="invisible"-->
+<!--        />-->
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progress_bar_scan"
+        app:lottie_fileName="air_scan_anim.json"
+        android:visibility="visible"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        >
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="24dp"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                >
+                <com.google.android.gms.ads.AdView
+                    xmlns:ads="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/adView_scan_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentBottom="true"
+                    ads:adSize="BANNER"
+                    ads:adUnitId="ca-app-pub-1490290745690107/1700813498">
+                </com.google.android.gms.ads.AdView>
+            </RelativeLayout>
+
+    <LinearLayout
+
+        android:id="@+id/top_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="32dp"
+        android:paddingHorizontal="8dp"
+        android:orientation="vertical"
+        android:background="@color/colorDeepGreen">
+
+        <Spinner
+            android:id="@+id/radius_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/style_spinner"
+
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingVertical="8dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/love_icon"
+                android:layout_marginTop="4dp"/>
+
+            <TextView
+                android:layout_marginLeft="8dp"
+                android:id="@+id/address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="8dp"
+                android:text="AdderssLine"
+                android:textColor="@color/white"
+                android:textSize="14sp"/>
+
+        </LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="16dp">
+
+    <TextView
+        android:id="@+id/scan_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|bottom"
+        android:text="0"
+        android:textColor="@color/white"
+        android:textSize="72sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/aqi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+
+        android:text=" AQI"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        />
+
+</LinearLayout>
+
+        <TextView
+            android:id="@+id/condition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:gravity="top"
+
+            android:text="Hazardous"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            />
+
+
+    </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="30dp">
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/treeToBePlanted"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <TextView
+                        android:id="@+id/req_tree_num"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:layout_margin="20dp"
+                        android:textSize="48sp"
+                        android:layout_gravity="center"
+                        />
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="100dp"
+                        android:src="@drawable/tree"/>
+
+                </LinearLayout>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:text="@string/startNow"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="16sp"
+
+                    />
+
+            </LinearLayout>
+
+
+
+<HorizontalScrollView
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="8dp"
+    android:scrollbars="none">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/back_shadow"
+            android:layout_gravity="bottom"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gas_color"
+                    android:layout_marginTop="8dp"
+                    android:layout_gravity="center_horizontal"
+
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/blue"
+                    android:text="ppm"
+                    android:includeFontPadding="false"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="12sp"
+                    />
+                <TextView
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/co"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    android:includeFontPadding="false"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="0dp"
+                    android:text="CO"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/back_shadow"
+            android:layout_gravity="bottom"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gas_color"
+                    android:layout_marginTop="8dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/blue"
+                    android:includeFontPadding="false"
+                    android:text="ppm"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="12sp"
+                    />
+                <TextView
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/no2"
+                    android:includeFontPadding="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="0dp"
+                    android:includeFontPadding="false"
+                    android:text="NO2"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+    <FrameLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/back_shadow"
+            android:layout_gravity="bottom"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gas_color"
+                    android:layout_marginTop="8dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/blue"
+                    android:text="ppm"
+                    android:includeFontPadding="false"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+                <TextView
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/so2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold"
+                    android:includeFontPadding="false"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:includeFontPadding="false"
+                    android:layout_marginTop="0dp"
+                    android:text="SO2"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/back_shadow"
+            android:layout_gravity="bottom"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gas_color"
+                    android:layout_marginTop="8dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/blue"
+                    android:includeFontPadding="false"
+                    android:text="ppm"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+                <TextView
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/o3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:includeFontPadding="false"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:includeFontPadding="false"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="0dp"
+                    android:text="O3"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/back_shadow"
+            android:layout_gravity="bottom"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gas_color"
+                    android:layout_marginTop="8dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/blue"
+                    android:text="ug/m3"
+                    android:includeFontPadding="false"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+                <TextView
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/pm10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold"
+                    android:includeFontPadding="false"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="0dp"
+                    android:text="PM10"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/back_shadow"
+            android:layout_gravity="bottom"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gas_color"
+                    android:layout_marginTop="8dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/blue"
+                    android:text="ug/m3"
+                    android:includeFontPadding="false"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+                <TextView
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/pm25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textAllCaps="false"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="0dp"
+                    android:text="PM25"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:fontFamily="@font/poppins_regular_file"
+                    android:textSize="14sp"
+                    />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+
+</LinearLayout>
+
+</HorizontalScrollView>
+
+            
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fab_plant_tree"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="32dp"
+        android:layout_marginRight="32dp"
+        android:src="@drawable/ic_leaf_white"
+        app:rippleColor="@color/white"
+        android:clickable="true"
+        android:focusable="true"/>
+
+
+</RelativeLayout>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

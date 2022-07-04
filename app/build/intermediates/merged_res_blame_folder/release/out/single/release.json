@@ -1,0 +1,1438 @@
+[
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_eye.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_msg_left.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\back_msg_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_scan.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_mail.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_card_back.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\card_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_no_tree_found_dialog.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\no_tree_found_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ripple.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_send.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-mdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_key_logo_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\key_logo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_msg_item_right.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\msg_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_back_to_home_button.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\back_to_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_key_logo_circle.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\key_logo_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_all_message_layout.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\all_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_leaf_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_leaf_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_slider_layout.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_marker_info_window.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\marker_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_style_spinner.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\style_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_leaf_white.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_leaf_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_sad.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\sad.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\raw_map_style.json.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\raw\\map_style.json"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_send.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_eye.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_dig_hole.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\dig_hole.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_scan_fragment.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\scan_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_leaf.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_scan_white.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_scan_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_love_icon.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\love_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_person_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\person_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_eye.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_leaf.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_leaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_mail.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_camera.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_message_green.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\message_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_arrow_right_half.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\arrow_right_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_send.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-xxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_love_icon.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\love_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_selected.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\selector_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_scan_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_arrow_right_half.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\arrow_right_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_splash_screen_back.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\splash_screen_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_starting.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\activity_starting.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_security_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\security_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_add_friend.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_email_png.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\email_png.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_right_arrow_half_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\right_arrow_half_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_leaf.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_signup_me.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\back_signup_me.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_shape_blue.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\button_shape_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_arrow_right_gray.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_leaf.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_eye.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_camera.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_msg_item_left.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\msg_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_arrow_right_half.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\arrow_right_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient_profile.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\gradient_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_love_icon.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\love_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_back.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\chat_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_send.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_back_to_home_button.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\back_to_home_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_leaf_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_leaf_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_signup_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\signup_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_spinner.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\layout_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_popup_plant_tree.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\popup_plant_tree.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\anim_capture_btn_anim.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\anim\\capture_btn_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_back_to_home_button.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\back_to_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_card_profile.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\card_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_love_icon.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\love_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_my_trees.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\fragment_my_trees.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_right_arrow_half_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\right_arrow_half_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_menu_refresh.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\menu_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ripple_white.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\ripple_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_scan.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_profile_pic.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-v24\\profile_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_send.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_plant_tree_slides.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\plant_tree_slides.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_right_arrow_half_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\right_arrow_half_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_friends.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_signup_green.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\signup_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_person_green.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\person_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_report.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_profile_fragment.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_person_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\person_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_map_marker_popup.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\map_marker_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_flower.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_spinner_down.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-xhdpi\\spinner_down.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_star.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_delete.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_key_logo_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\key_logo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_leaf.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\font_cabin_italic.ttf.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\font\\cabin_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_flower.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_report.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_signup_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\signup_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_arrow_right_gray.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sign_up2.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\activity_sign_up2.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button_back.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-v24\\button_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_not_selected.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\selector_not_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_google.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_send.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_scan.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_add_friend.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_dropdown_spinner.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\dropdown_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_mail.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_back_to_home_button.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\back_to_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_signup_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\signup_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_key_logo_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\key_logo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_scan_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_map.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\map.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_message_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\message_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_right_arrow_half_white.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\right_arrow_half_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_love_icon.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\love_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_key_logo_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\key_logo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_security_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\security_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_right_arrow_half_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\right_arrow_half_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_mail.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_love_icon.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\love_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_camera.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_capture_dialog.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\capture_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_signup_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\signup_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_arrow_right_gray.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_person_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\person_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_arrow_right_gray.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile_back_button.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\profile_back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_message_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\message_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_scan_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_security_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\security_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_spinner_down.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_down.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_activity_main.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_add_friend.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_pic.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_right_arrow_half_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\right_arrow_half_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\anim_splash_img_small.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\anim\\splash_img_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_back_to_home_button.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\back_to_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_back_to_home_button.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\back_to_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_add_friend.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_friend_dialog.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\friend_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_arrow_right_gray.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_arrow_right_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_eye.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_flower.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_arrow_right_half.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\arrow_right_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_report.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_report.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_delete.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_scan.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_regular_file.ttf.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\font\\poppins_regular_file.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_gridview_style.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\gridview_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_signup_person.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\signup_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_add_friend.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\add_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_arrow_right_half.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\arrow_right_half.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_security_circle.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\security_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_message_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\message_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_leaf.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_msg_right.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\back_msg_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_flower.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_arrow_right_gray.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_friends_grid.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\friends_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_maps.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_tree_marker_logo.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\tree_marker_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_delete.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_leaf_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_leaf_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_report.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_camera_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\camera_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_scan_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_leaf_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_leaf_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_delete.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_star.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_camera.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_report.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\font_cabin.ttf.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\font\\cabin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_thinking.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\thinking.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_flower.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button_back2.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-v24\\button_back2.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_take_out_tree.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\take_out_tree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_scan.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_planting.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\planting.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_flower.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_flower.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\anim_text_splash.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\anim\\text_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_no_trees_dialog.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\no_trees_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_semibold_file.ttf.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\font\\poppins_semibold_file.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_style_search_friend.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\style_search_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_refresh.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle_red.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_eye.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_gas_color.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\gas_color.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_key_logo_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\key_logo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_scan_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_tree.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\tree.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_person_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\person_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_layout.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\menu\\menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_security_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\security_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_all_messages.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\fragment_all_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_spinner_down.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-hdpi\\spinner_down.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_scan.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_groot.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\groot.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_flower.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_sign_up2.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\sign_up2.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_arrow_right_half.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\arrow_right_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_leaf_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_leaf_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_mail.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile_bk.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\profile_bk.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_back_to_home_button.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\back_to_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_signup_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\signup_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_message_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\message_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_add_friend.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_eye.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_map.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_google.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_shadow.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\back_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_leaf_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_leaf_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_log_in_me.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\back_log_in_me.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_profile_chat.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\profile_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_plant_button_back.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\plant_button_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_report.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_mail.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_delete.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_message_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\message_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_message_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\message_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_right_arrow_half_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\right_arrow_half_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_security_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\security_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_camera.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_friend_back.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\friend_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_card.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\back_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_key_logo_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\key_logo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chat_message.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\activity_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\layout_report_dead_tree_fragment.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\layout\\report_dead_tree_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_star.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_leaf.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_scan_white.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_person_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\person_green.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_star.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_green_back.jpg.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\green_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_close.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_send.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_love_icon.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\love_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_delete.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_white.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\anim_img_splash.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\anim\\img_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_facebook.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\anim_confused_text_animation.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\anim\\confused_text_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_spinner_down.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable-mdpi\\spinner_down.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_mail.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_shadow_profile.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\shadow_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable_take_out_tree2.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\src\\main\\res\\drawable\\take_out_tree2.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_arrow_right_half.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\arrow_right_half.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_signup_person.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\signup_person.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_security_circle.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\security_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_right_gray.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_scan.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_chat.xml.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_add_friend.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_chat.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_person_green.png.flat",
+        "source": "C:\\Users\\rick\\AndroidStudioProjects\\GreenHeroes\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\person_green.png"
+    }
+]

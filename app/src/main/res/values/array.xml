@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="radius_array">
+    <item>@string/distance_100m</item>
+    <item>@string/distance_250m</item>
+    <item>@string/distance_500m</item>
+    <item>@string/distance_750m</item>
+    <item>@string/distance_1km</item>
+    <item>@string/distance_5km</item>
+    <item>@string/distance_10km</item>
+    <item>@string/distance_25km</item>
+
+</string-array>
+</resources>

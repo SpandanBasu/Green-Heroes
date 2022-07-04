@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    >
+
+    <ImageButton
+        android:id="@+id/remove_friend"
+        android:layout_margin="8dp"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:translationZ="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/delete"/>
+
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        android:layout_margin="16dp"
+        >
+
+
+        <LinearLayout
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:id="@+id/friend_back"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:focusable="true">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/friend_img"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/groot"
+                android:layout_marginTop="8dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_marginHorizontal="8dp"
+                android:id="@+id/friend_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Username"
+                android:textAlignment="center"
+                android:includeFontPadding="false"
+                android:textColor="@color/DeepGray"
+                android:fontFamily="@font/poppins_regular_file"
+                android:textSize="18sp"
+                android:layout_gravity="center_horizontal"
+
+                />
+            <TextView
+                android:layout_marginHorizontal="8dp"
+                android:layout_marginBottom="12dp"
+                android:id="@+id/friend_email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="user@gmail.com"
+                android:layout_gravity="center_horizontal"
+                android:includeFontPadding="false"
+                android:textColor="@color/gray"
+                android:textAlignment="center"
+                android:textSize="12sp"/>
+
+
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

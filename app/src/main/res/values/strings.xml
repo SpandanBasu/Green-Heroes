@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">Green Heroes</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="re_password_hint">Retype Password</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="sign_up_sign_screen">Sign up</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="log_in"><u>Log in</u></string>
+    <string name="log_in_log_screen">Log in</string>
+    <string name="welcome_back">Welcome\nBack</string>
+    <string name="forgot_password"><u>Forgot Passwords</u></string>
+    <string name="six_char">password must be atleast 6 character long</string>
+    <string name="pass_dont_match">Passwords do not match</string>
+    <string name="email_required">Email is required</string>
+    <string name="malformed_email">Email_id is malformed</string>
+    <string name="name_required">Name is required</string>
+    <string name="pass_required">Password is required</string>
+    <string name="email_in_use">Email is already in use, Please try to LogIn</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tell_us_about_tree">Tell us about the tree you just planted. (If you don\'t know the english name you can use the local name of the tree)</string>
+    <string name="capture">Capture a pic of your planted tree for verification. Thank you so much…</string>
+    <string name="aqi_api_key">1f1d110d1b1e0e8f388c2f89800ba7e5a02c8d8f</string>
+    <string name="distance_100m">100 m</string>
+    <string name="distance_250m">250 m</string>
+    <string name="distance_500m">500 m</string>
+    <string name="distance_750m">750 m</string>
+    <string name="distance_1km">1 km</string>
+    <string name="distance_5km">5 km</string>
+    <string name="distance_10km">10 km</string>
+    <string name="distance_25km">25 km</string>
+    <string name="treeToBePlanted">This is the number of trees you have to plant to save the whole planet. </string>
+    <string name="startNow">Start planting tree Today! to make a better Tomorrow!</string>
+    <string name="dig">Dig a hole 3 inches deeper than the length of the roots.</string>
+    <string name="tipToDig">Tip: Choose a place with good wind protection</string>
+    <string name="howToDig">Depth is more important than width in most cases, so be sure to dig enough of a hole that the existing roots can be completely covered. A bigger, deeper hole is better, but you don’t have to go to any great lengths.</string>
+    <string name="removeTree">Carefully remove the seedling from it\'s container.</string>
+    <string name="tipToRemove">Tip: Gently loosen the soil to help the roots spread out</string>
+    <string name="howToRemove">Make sure your seedling isn\'t root bound. If it is, you may have to cut an X through the bottom of the root ball to break it up, but if it isn’t too bad, simply use your hand to gently break up the pattern. Exercise caution, because if you’re too rough with the roots, you’ll increase the risk of the tree going into transplant shock.</string>
+    <string name="plantingTree">Gently nestle it into the hole and backfill, Compressing as you go.</string>
+    <string name="tipToPlantTree">Tip: Make sure it\'s centered and upright</string>
+    <string name="howToPlantTree">Think of this step as placing the seedling in a “bowl” that will be filled with water. Taking a little extra care during this step will help ensure that the roots get enough water to do their job. Once it\'s placed, backfill with the removed soil and compress in layers until the roots are entirely covered, but the trunk flare remains partially aboveground.</string>
+    <string name="wateringTree">Water the plant in.</string>
+    <string name="tipToWater">Tip: Always water it as much required, more than necessary can be harmful</string>
+    <string name="howToWater">Watering ensures that the soil settles around the plant, and the roots get good contact with the soil. It also provides an important first drink if the soil is otherwise dry, and provides deeper moisture even if it is already damp.</string>
+
+    <string name="map_id">42a9c663bd13c047</string>
+
+
+</resources>

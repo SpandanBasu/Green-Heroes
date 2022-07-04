@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180573893789",
+    "firebase_url": "https://green-heroes-e8106.firebaseio.com",
+    "project_id": "green-heroes-e8106",
+    "storage_bucket": "green-heroes-e8106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180573893789:android:c34f4c680d6e4c3ec99074",
+        "android_client_info": {
+          "package_name": "com.greenhero.greenheroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180573893789-f0083jn03pht44js8237o1vqskokbith.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenhero.greenheroes",
+            "certificate_hash": "242aaa569b9c83127f475597704a8cbff370c975"
+          }
+        },
+        {
+          "client_id": "180573893789-3s1stlvunf3d29bjl336gvgg1f4itbl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDo5c8EWDC7VsO2_NR6-O5KtD9rxf_uvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180573893789-3s1stlvunf3d29bjl336gvgg1f4itbl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabRefresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:elevation="4dp"
+        android:scaleType="center"
+        android:backgroundTint="#C1E5E5"
+        app:backgroundTint="#C1E5E5"
+        app:fabSize="mini"
+        app:rippleColor="#3cffffff"
+        android:layout_marginRight="8dp"
+        app:tint="#FFFFFF"
+        />
+</LinearLayout>

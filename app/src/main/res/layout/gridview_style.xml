@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tree_grid_back"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    >
+
+    <ImageButton
+        android:id="@+id/delete_tree"
+        android:layout_margin="8dp"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:translationZ="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_close"
+        android:background="@drawable/circle_red"/>
+
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        android:layout_margin="16dp"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/grid_img"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/pic"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/tree_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Second Item"
+            android:textAlignment="center"
+            android:includeFontPadding="false"
+            android:textColor="@color/blackTextColor"
+            android:fontFamily="@font/poppins_regular_file"
+            android:textSize="18sp"
+            android:layout_gravity="center_horizontal"
+
+            />
+        <LinearLayout
+            android:paddingHorizontal="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_marginBottom="8dp"
+            >
+            <LinearLayout
+                android:layout_marginTop="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Planted On: "
+                    android:includeFontPadding="false"
+                    android:textColor="@color/black"
+                    android:textSize="12sp"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:id="@+id/date"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="18-12-2020"
+                    android:layout_gravity="center_horizontal"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    android:paddingVertical="5dp"
+                    android:textStyle="bold"
+                    />
+
+
+            </LinearLayout>
+            <LinearLayout
+
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="AT Time: "
+                    android:includeFontPadding="false"
+                    android:textColor="@color/black"
+                    android:textSize="12sp"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+                <TextView
+                    android:id="@+id/time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="18:30:10"
+                    android:includeFontPadding="false"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:paddingVertical="5dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

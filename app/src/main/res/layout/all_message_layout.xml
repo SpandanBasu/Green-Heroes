@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="100dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<RelativeLayout
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:padding="16dp">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_dp_allmsg"
+            android:layout_width="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_height="60dp"
+            android:layout_marginRight="16dp"
+            android:src="@drawable/groot"
+            android:layout_marginVertical="5dp"
+            />
+        <LinearLayout
+
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <TextView
+            android:ellipsize="end"
+            android:maxWidth="230dp"
+            android:maxLines="1"
+            android:id="@+id/user_name_allmsg"
+            android:textAlignment="textStart"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UserName"
+            android:gravity="start" />
+
+            <TextView
+                android:id="@+id/message_allmsg"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:maxWidth="180dp"
+                android:gravity="left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textSize="12sp"
+                android:text="SOme message to you"/>
+
+        </LinearLayout>
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_marginRight="8dp"
+            android:visibility="gone"
+            android:id="@+id/new_message_alert"
+            android:layout_gravity="center_vertical"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:background="@drawable/circle_red"/>
+
+        <TextView
+            android:id="@+id/time_allmsg"
+            android:gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="12sp"
+            android:text="31 Dec 2020"/>
+    </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/lightGray"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

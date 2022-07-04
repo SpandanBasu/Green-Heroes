@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/scan"
+            android:icon="@drawable/ic_scan"
+            android:title="Scan AirQuality" />
+
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/ic_map"
+            android:title="Map" />
+
+        <item
+            android:id="@+id/plant_tree"
+            android:icon="@drawable/ic_leaf"
+            android:title="Plant Tree" />
+
+        <item
+            android:id="@+id/messages_menu"
+            android:icon="@drawable/mail"
+            android:title="Messages" />
+
+        <item
+            android:id="@+id/friends_menu"
+            android:icon="@drawable/add_friend"
+            android:title="Friends" />
+
+<!--        <item-->
+<!--            android:id="@+id/report"-->
+<!--            android:icon="@drawable/ic_report"-->
+<!--            android:title="Report Dead Tree" />-->
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/rate_us"
+                android:icon="@drawable/ic_star"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Log Out" />
+
+        </menu>
+    </item>
+
+</menu>

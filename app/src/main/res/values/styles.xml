@@ -1,0 +1,103 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <!-- Style for an EditText field in the SignUp page editor -->
+    <style name="EditorFieldStyle">
+        <item name="android:fontFamily">@font/poppins_regular_file</item>
+        <item name="android:textSize">16sp</item>
+        <item name="color">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:layout_weight">0.5</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Style for an EditText field in the new SignUp page editor -->
+    <style name="EditorFieldStyleSignUp">
+        <item name="android:fontFamily">@font/poppins_regular_file</item>
+        <item name="android:textSize">16sp</item>
+        <item name="color">@color/colorDeepGreen</item>
+        <item name="android:textColorHint">@color/offWhite</item>
+        <item name="android:backgroundTint">@color/colorDeepGreen</item>
+        <item name="android:layout_weight">0.5</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <!-- Style for an EditText field in the LogIn page editor -->
+    <style name="EditorFieldStyle2">
+        <item name="android:fontFamily">@font/poppins_regular_file</item>
+        <item name="android:textSize">16sp</item>
+        <item name="color">@color/white</item>
+        <item name="android:textColorHint">@color/lightGray</item>
+        <item name="android:backgroundTint">@color/lightGray</item>
+        <item name="android:layout_weight">0.5</item>
+    </style>
+
+    <!-- Style for an EditText field in the PlantTree editor -->
+    <style name="EditorFieldStyle3">
+        <item name="android:fontFamily">@font/poppins_regular_file</item>
+        <item name="android:textSize">16sp</item>
+        <item name="color">@color/DeepGray</item>
+        <item name="android:textColorHint">@color/DeepGray</item>
+        <item name="android:backgroundTint">@color/DeepGray</item>
+        <item name="android:layout_weight">0.5</item>
+    </style>
+
+    <!-- Style for Circular Progress Bar White -->
+
+    <style name="ProgressBarStyle" parent="@style/Theme.AppCompat">
+       <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+        <item name="android:indeterminateTint">@color/white</item>
+        <item name="android:visibility">invisible</item>
+
+    </style>
+
+    <!-- Style for Circular Progress Bar Dark -->
+
+    <style name="ProgressBarStyleDark" parent="@style/Theme.AppCompat">
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+        <item name="android:indeterminateTint">@color/DeepGray</item>
+        <item name="android:visibility">invisible</item>
+
+    </style>
+
+    <!-- Style for Circular Progress Bar -->
+    <style name="toolbar" >
+        <item name="title">@string/app_name</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="fontFamily">@font/poppins_regular_file</item>
+
+    </style>
+
+    <style name="style_1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/main_activity_primary</item>
+        <item name="colorPrimaryDark">@color/main_activity_primary_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- Splash Screen theme -->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@drawable/splash_screen_back</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+
+</resources>
