@@ -3,8 +3,12 @@
 An initiative to motivate the youth to plant trees in a modern way. (A
 social media for tree lovers and an efficient way of saving the planet)
 
+![Project Screenshot](https://github.com/SpandanBasu/Green-Heroes/blob/master/app.PNG?raw=true)
+
 Plant real trees with us. Show them to the whole world. Save the earth, become a Green Hero. 
 “Green Heroes” is the first app of its kind. With this app, you can save the planet for real.
+
+![Project Screenshot](https://github.com/SpandanBasu/Green-Heroes/blob/master/green_heroes.png?raw=true)
 
 Everyone wants to plant trees. But why we don’t do that? Maybe we think what a single tree will do?.. Or we want exact numbers how many trees are being planted out there… And exactly how many we have to plant to save the earth? 
 
@@ -13,6 +17,8 @@ Well… The solution is here. We can do the Math for you, we can have the count 
 I am too lazy… I don’t plant trees. It’s very hard work, What will I do?
 Don’t worry we’ve got you covered there too! You can have the Fun, while we make your work Done!
 Have a fun time with all your plant lover friends. Make new friends and have a friendly chat. Either your friends will cover up for you. Or we will. The time you spend in our app will be utilized to plant a tree on your behalf. Save tomorrow, like you never imagined before.
+
+
 
 
 HOW DOES IT WORK?
